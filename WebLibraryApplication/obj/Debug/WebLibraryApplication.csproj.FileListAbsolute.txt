@@ -1,0 +1,38 @@
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\WebLibraryApplication.dll.config
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\WebLibraryApplication.dll
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\WebLibraryApplication.pdb
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\System.Web.Optimization.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Newtonsoft.Json.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\EntityFramework.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Microsoft.Owin.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\obj\Debug\WebLibraryApplication.csprojResolveAssemblyReference.cache
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\obj\Debug\WebLibraryApplication.dll
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\obj\Debug\WebLibraryApplication.pdb
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\BusinessLayer.dll
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\DataLayer.dll
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\BusinessLayer.pdb
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\WebLibraryApplication\bin\DataLayer.pdb
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\WebLibraryApplication\bin\WebLibraryApplication.dll.config
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\WebLibraryApplication\bin\WebLibraryApplication.dll
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\WebLibraryApplication\bin\WebLibraryApplication.pdb
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\WebLibraryApplication\bin\BusinessLayer.dll
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\WebLibraryApplication\bin\DataLayer.dll
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\WebLibraryApplication\bin\BusinessLayer.pdb
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\WebLibraryApplication\bin\DataLayer.pdb
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\WebLibraryApplication\obj\Debug\WebLibraryApplication.csprojResolveAssemblyReference.cache
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\WebLibraryApplication\obj\Debug\WebLibraryApplication.dll
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\WebLibraryApplication\obj\Debug\WebLibraryApplication.pdb

@@ -1,0 +1,96 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Library.master.cs" Inherits="WebLibraryApplication.Library" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <title>DEU Library</title>
+    <meta name="description" content="website description" />
+    <meta name="keywords" content="website keywords, website keywords" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <!-- modernizr enables HTML5 elements and feature detects -->
+    <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+
+    
+<body class="index">
+    
+    <div id="main">
+        <form id="form1" runat="server">
+        <header>
+            <div id="logo">
+                
+                <div id="logo_text">
+                    <!-- class="logo_colour", allows you to change the colour of the text -->
+                    
+                    <h1><a href="Default.aspx"> DEU<span class="logo_colour"> Central Library</span></a></h1>
+                    <h2>LIBRARY and DOCUMENTATION DEPARTMENT CENTER</h2>
+                    
+                </div>
+
+                
+            </div>
+            
+            <nav>
+                <div id="menu_container">
+                    <ul class="sf-menu" id="nav">
+                        <li><a runat="server" href="~/Default.aspx">Home</a></li>
+                        <li><asp:LinkButton id="LinkButton1" runat="server" Visible="true" OnClick="LinkButton1_Click">Library Menu</asp:LinkButton></li>
+                        <li><a runat="server" href="~/Contact.aspx">Contact Us</a></li>
+                        <li><asp:LinkButton id="ButtonLogIn" runat="server" OnClick="ButtonLogIn_Click" Visible="true">Log in</asp:LinkButton></li>
+                        <li><asp:LinkButton id="ButtonOrder" runat="server" Visible="false" OnClick="ButtonOrdes_Click">My Orders</asp:LinkButton></li>
+                        <li><asp:LinkButton id="ButtonLogOut" runat="server" OnClick="ButtonLogOut_Click" Visible="false">LogOut</asp:LinkButton></li>
+
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+        <!--<div id="site_content">
+            <div id="sidebar_container">
+                <div class="sidebar">
+                    <h3>Latest News</h3>
+                    <h4>New Website Launched</h4>
+                    <h5>January 1st, 2012</h5>
+                    <p>2012 sees the redesign of our website. Take a look around and let us know what you think.<br />
+                        <a href="#">Read more</a></p>
+                </div>
+                <div class="sidebar">
+                    <h3>Useful Links</h3>
+                    <ul>
+                        <li><a href="#">First Link</a></li>
+                        <li><a href="#">Another Link</a></li>
+                        <li><a href="#">And Another</a></li>
+                        <li><a href="#">Last One</a></li>
+                    </ul>
+                </div>
+            </div>-->
+        
+            
+                <div>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </form>
+        </div>
+    <footer style="width:1000px">
+        <p>Copyright &copy; DEU_centralLibrary | <a href="http://www.kutuphane.deu.edu.tr/">design from DEU Computer Engineering Students</a></p>
+    </footer>
+    
+    <p>&nbsp;</p>
+    <!-- javascript at the bottom for fast page loading -->
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+    <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('ul.sf-menu').sooperfish();
+        });
+    </script>
+
+</body>
+</html>

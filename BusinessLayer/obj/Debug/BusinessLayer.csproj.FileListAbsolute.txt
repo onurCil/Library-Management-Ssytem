@@ -1,0 +1,13 @@
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Yunus\Documents\Visual Studio 2013\Projects\DBLibrary\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\BusinessLayer\bin\Debug\DataLayer.dll
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\3.sınıf\databaseSon\2011510059_2011510042\DBLibrary\BusinessLayer\obj\Debug\BusinessLayer.pdb

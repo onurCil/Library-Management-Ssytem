@@ -1,0 +1,90 @@
+//////////////////////// TRÝGGERS
+ALTER trigger [dbo].[trgDeleteAdminOnUser]
+on [dbo].[ADMIN]
+after delete
+as
+  declare @userId int
+  SELECT @userId=deleted.userId 
+  FROM deleted
+ 
+  delete from [dbo].[USER]
+  where [dbo].[USER].userId = @userId
+
+
+
+
+ALTER trigger [dbo].[trgDeleteBookOnItem]
+on [dbo].[BOOK]
+after delete
+as
+  declare @itemId int
+  SELECT @itemId=deleted.itemId 
+  FROM deleted
+ 
+  delete from ITEM
+  where ITEM.itemId = @itemId
+
+
+ALTER trigger [dbo].[trgDeleteJournalOnItem]
+on [dbo].[JOURNAL]
+after delete
+as
+  declare @itemId int
+  SELECT @itemId=deleted.itemId 
+  FROM deleted
+ 
+  delete from ITEM
+  where ITEM.itemId = @itemId
+
+
+ALTER trigger [dbo].[trgDeleteMemberOnUser]
+on [dbo].[MEMBER]
+after delete
+as
+  declare @userId int
+  SELECT @userId=deleted.userId 
+  FROM deleted
+ 
+  delete from [dbo].[USER]
+  where [dbo].[USER].userId = @userId
+
+
+
+
+ALTER trigger [dbo].[trgDeleteNEWSPAPEROnItem]
+on [dbo].[NEWSPAPER]
+after delete
+as
+  declare @itemId int
+  SELECT @itemId=deleted.itemId 
+  FROM deleted
+ 
+  delete from ITEM
+  where ITEM.itemId = @itemId
+
+
+ALTER trigger [dbo].[trgDeleteVideoOnItem]
+on [dbo].[VIDEO]
+after delete
+as
+  declare @itemId int
+  SELECT @itemId=deleted.itemId 
+  FROM deleted
+ 
+  delete from ITEM
+  where ITEM.itemId = @itemId
+
+
+
+/////////////////////////  VIEWS
+
+create VIEW [dbo].[view_Book] as
+select b.bookId,b.author,i.* 
+from BOOK b, ITEM i
+
+
+
+create VIEW [dbo].[view_Borrow] as
+select b.*,u.fullName,u.gender,u.address,u.password,u.nickName,u.isOnline,u.mail from [BORROW] b,[USER] u,ITEM i
+where u.userId = b.userId and b.itemId = i.itemId
+where i.itemId = b.itemId
